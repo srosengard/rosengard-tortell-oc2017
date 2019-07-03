@@ -1,6 +1,6 @@
 # rosengard-tortell-oc2017
 Repository for data reported in Rosengard et al. submission to Biogeosciences
-########################################################################################################################
+#################################################################################
 
 Table 1: All underway ship measurements matched to drifter track (<1.5 km from drifter GPS location)
 
