@@ -10,7 +10,7 @@ Column 1 - Measurement time (Pacific time zone, Julian days), Column 2 - Latitud
 
 Table 2: Discrete chlorophyll-a concentration measurements
 
-Column 1 - Collection time (Pacific time zone, Julian days), Column 2 - Total chlorophyll-a (µg/L), Column 3 - underway absorption line height matched within 5 minute window to discrete sampling time (1/m)
+Column 1 - Collection time (Pacific time zone, Julian days), Column 2 - Total chlorophyll-a (µg/L), Column 3 - underway absorption line height matched and averaged within 5 minute window to discrete sampling time (1/m), Column 4 - underway absorption line height standard deviation
 
 Rows 1-22 - summed size-fraction chlorophyll-a concentrations collected from the ship seawater and analyzed by fluorometry, Rows 23-35- chlorophyll-a collected from Niskin casts (5 m) and analyzed by HPLC, Rows 36-47- chlorophyll-a collected  from the ship seawater intake and analyzed by HPLC, Rows 48-58- chlorophyll-a collected from Niskin casts (5 m) and analyzed by HPLC
 
